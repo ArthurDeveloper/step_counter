@@ -1,16 +1,8 @@
-# step_counter
+# Step Counter
 
-A new Flutter project.
+A simple and multiplatform step counter for your smartphone, built with flutter and the package [pedometer](https://pub.dev/packages/pedometer).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How to run it?
+- Make sure you've got flutter sdk configured in your machine.
+- Run ``flutter pub get`` to install dependencies
+- Run ``flutter run`` to run the project in development mode (I recommend using ``flutter run -v`` so that you can see detailed logs)
